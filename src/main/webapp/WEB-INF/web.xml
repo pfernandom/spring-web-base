@@ -28,7 +28,7 @@
 	</context-param>
 	<context-param>
 		<param-name>spring.profiles.default</param-name>
-		<param-value>test</param-value>
+		<param-value>prod</param-value>
 	</context-param>
 
 	<!-- Spring Security -->
